@@ -1,3 +1,1 @@
-# Build settings
-markdown: kramdown
-theme: dinky
+theme: minima
